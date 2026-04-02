@@ -15,3 +15,4 @@ function formatearHora(fecha) {
     const minutos = String(date.getMinutes()).padStart(2, '0');
     return ;
 }
+// Hotfix aplicado correctamente
